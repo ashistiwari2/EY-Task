@@ -1,0 +1,1 @@
+now i am able to use git bash command to control it
